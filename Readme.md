@@ -1,3 +1,5 @@
+# Oraclize API will be used in DBC custom development to fetch data from off-chain sources
+
 Thanks to this [Ethereum API helpers](https://github.com/oraclize/ethereum-api) using Oraclize in your Solidity/Serpent code is very easy.
 
 In Solidity it is as simple as inheriting the `usingOraclize` contract: this will provide you some functions, like `oraclize_query`, which make it trivial to leverage our technology straight away.
